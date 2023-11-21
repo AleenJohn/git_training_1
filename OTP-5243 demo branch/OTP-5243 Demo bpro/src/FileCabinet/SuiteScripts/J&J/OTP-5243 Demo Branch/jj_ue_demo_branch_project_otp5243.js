@@ -18,6 +18,7 @@ define(['N/record'],
          * bbnbnbnbkfiii
          * ppppp
          */
+        //Committed command prompt
         const beforeLoad = (scriptContext) => {
 
         }
