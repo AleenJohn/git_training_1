@@ -31,6 +31,7 @@ define(['N/record'],
          * @param {string} scriptContext.type - Trigger type; use values from the context.UserEventType enum
          * @since 2015.2
          */
+        //Desk Application
         const beforeSubmit = (scriptContext) => {
 
         }
