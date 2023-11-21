@@ -16,7 +16,7 @@ define(['N/record'],
          * @param {ServletRequest} scriptContext.request - HTTP request information sent from the browser for a client action only.
          * @since 2015.2
          * bbnbnbnbkfiii
-         * 
+         * ppppp
          */
         const beforeLoad = (scriptContext) => {
 
